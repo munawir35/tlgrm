@@ -64,7 +64,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="card" style="width: 18rem;">
-                    <img src="6.jpg" class="card-img-top" alt="...">
+                    <img src="12.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Palazhi turff</h5>
                         <p class="card-text"><select class="form-select form-select-lg mb-3" aria-label=".form-select-lg example">
